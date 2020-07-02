@@ -337,9 +337,4 @@ void DisconnectAllServos() {
 ```
 ## Acknowledgments and references
 
-Uduino http://www.marcteyssier.com/uduino/
-
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Special thanks to Marc Teyssier Uduino http://www.marcteyssier.com/uduino/
